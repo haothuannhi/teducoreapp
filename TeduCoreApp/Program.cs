@@ -22,4 +22,5 @@ namespace TeduCoreApp
                 .UseStartup<Startup>()
                 .Build();
     }
+    // add them comment
 }
