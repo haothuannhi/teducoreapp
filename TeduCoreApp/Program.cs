@@ -22,5 +22,5 @@ namespace TeduCoreApp
                 .UseStartup<Startup>()
                 .Build();
     }
-    // add them comment
+    // replace comment cho lession7
 }
